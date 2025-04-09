@@ -67,3 +67,18 @@ pa = &d;
 c++;
 printf("%d %d %d %d \n", a, b, c, d);
 ```
+
+
+
+```cpp
+CHƯƠNG 01 typedef
+CHƯƠNG 02 macro
+CHƯƠNG 03 struct
+CHƯƠNG 04 enum
+CHƯƠNG 05 union
+CHUONG 06 pack
+CHƯƠNG 06 pointer
+CHƯƠNG 07 bitwise
+```
+
+Typedef giúp bạn tạo một tên mới cho các kiểu dữ liệu trong ngôn ngữ C++
